@@ -59,7 +59,7 @@ sleep 0.5
 
 #mkdir /dev/shm/Player-Data
 
-players=${PLAYERS:-9}
+players=${PLAYERS:-2}
 
 SPDZROOT=${SPDZROOT:-.}
 
